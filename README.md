@@ -51,5 +51,8 @@ pip install -r requirements.txt
 ```
 
 4️⃣ Download the dataset
+```bash
 The dataset will be made publicly available upon publication.
-Once released, download it from [link to be added] and extract it into the repository root, so that the folder structure appears as follows:
+Once released, download it from [link to be added] and extract it into the repository root
+```
+
